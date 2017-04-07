@@ -29,7 +29,7 @@ Please see [CHANGELOG.md](CHANGELOG.md) for more information on what has changed
 
 ## Testing
 
-You can run all tests with:
+You can run all tests using:
 
 ``` bash
 $ composer test
