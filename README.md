@@ -2,7 +2,7 @@
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/m1guelpf/:package_name.svg?style=flat-square)](https://packagist.org/packages/m1guelpf/:package_name)
 [![Software License](https://img.shields.io/badge/license-AGPLv3-blue.svg?style=flat-square)](LICENSE.md)
-[![Total Downloads](https://img.shields.io/packagist/dt/m1guelpf/:package_name.svg?style=flat-square)](https://packagist.org/packages/m1guelpf/:package_name)
+[![Total Downloads](https://img.shields.io/packagist/dt/m1guelpf/:package_name.svg?style=flat-square)](https://packagist.org/packages/m1guelpf/:package_nameasd
 
 **Note:** Replace ```:author_name``` ```:author_username``` ```:author_email``` ```:package_name``` ```:package_description``` with their correct values in [README.md](README.md), [CHANGELOG.md](CHANGELOG.md), [CONTRIBUTING.md](CONTRIBUTING.md), [LICENSE.md](LICENSE.md) and [composer.json](composer.json) files, then delete this line.
 
@@ -10,7 +10,7 @@ This is where your description should go. Try and limit it to a paragraph or two
 
 ## Installation
 
-You can install the package via composer:
+You can install the package via composer using this command:
 
 ``` bash
 composer require m1guelpf/:package_name
@@ -25,9 +25,10 @@ echo $skeleton->echoPhrase('Hello, M1guelpf!');
 
 ## Changelog
 
-Please see [CHANGELOG](CHANGELOG.md) for more information what has changed recently.
+Please see [CHANGELOG.md](CHANGELOG.md) for more information on what has changed recently.
 
 ## Testing
+
 
 ``` bash
 $ composer test
@@ -35,11 +36,11 @@ $ composer test
 
 ## Contributing
 
-Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
+Read our [CONTRIBUTING.md](CONTRIBUTING.md) for more details on how to help us.
 
 ## Security
 
-If you discover any security related issues, please email soy@miguelpiedrafita.com instead of using the issue tracker.
+If you find any security related issues, please send an email to soy@miguelpiedrafita.com instead of using the issue tracker.
 
 ## Credits
 
@@ -48,4 +49,4 @@ If you discover any security related issues, please email soy@miguelpiedrafita.c
 
 ## License
 
-This package is licensed under the Mozilla Public license. Please see [License File](LICENSE.md) for more information.
+This package is licensed under the Mozilla Public License ("MPL"). Please see [LICENSE.md](LICENSE.md) for more information.
